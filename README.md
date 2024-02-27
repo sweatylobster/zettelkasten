@@ -19,42 +19,46 @@ Previous values can't be overwritten.
 Indexing is very instructive and a good practice because of this.
 Good to continue.
 
-Indexed Zettelkasten useful in a business context *iff* if it is centralized.
+Indexed Zettelkasten useful in a business context *iff* it's centralized.
 The box is useless if you're not in your office.
 You can write but not retrieve cards when away.
-Idiot-nomad.
-A portable Zettelkasten sucks.
+Amnesic idiot-nomad.
+And a portable Zettelkasten sucks.
 Clunky, and unreliable in a business context.
 *The Zettelkasten directs the behavior in the office.*
 You need a centralized box.
 But centralized better if distributed.
 Since copying 3x5 index cards by hand is ridiculous, printing `git` revisions of Zettelkasten onto physical cards is superior.
 These can be stylized.
-We have to define a digital Zettelkasten.
+Digital Zettelkasten more applicable to business.
+Solve printing et voilà.
+Now to define a digital Zettelkasten.
 
 ## Essence of Zettelkasten
+But first, the essence of any Zettelkasten.
 *Zettel* -- note,
 *Kasten* -- crate/box.
 Note-box.
 We need to add, store, and review slips.
 That's it.
 Minimize friction of adding *ein Zettel*.
-1. Write fragments and not essays. The interior mobility is the priority.
+1. Write fragments and not essays. Enforce short bodies. The interior mobility is the priority. (Notable difference from Mischa van den Burg's use of the technical Markdown Zettelkasten.)
 2. Compose fragments to make essays. (Inspired by Roland Barthes's manner of writing.)
-An index is a UUID *and a tree.*
-It groups by intuition.
-I should be able to regroup fragments based on tags and content.
+An index is not only a UUID -- *it is a tree that groups by intuition*.
 Digital version is wanting in a spatial *parataxis* tool.
+Yet it might excel in regrouping.
 
 ## Digital Zettelkasten design
+Goal is an optimal schema for a *business* Zettelkasten.
+Notes must be compressed and informative.
 Digital notes should be practically equivalent to index cards.
 I should feel like I'm leafing through the Zettelkasten with `fzf --preview 'bat -p -f {}'`.
 Automate meta tags and enforce short bodies.
-(Notable difference from Mischa van den Burg's use of the technical Markdown Zettelkasten.)
-Attaching metadata must be automated and easy to overwrite.
-Goal is an optimal schema for a business Zettelkasten.
+Once again, note the difference from Mischa van den Burg's Zettelkasten.
 
+Metadata inscription must be automated and easy to overwrite.
 While indices intuitively group, we have digital directories.
+Examine hierarchies with `tree` or `eza --tree`.
 `oil.nvim`, `nnn`, and `fx` enable digital *parataxis*.
 Files can belong to a single directory and be arbitrarily sorted.
 But the thinking must always be easy to represent as a graph.
