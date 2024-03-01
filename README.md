@@ -7,35 +7,45 @@ But is it also better creatively?
 
 ## Physical Zettelkasten experiment findings
 Experimenting with physical Zettelkasten.
+Fragments are fruitful.
 Great for creativity.
-Note body is low friction.
-Fragments fruitful.
 Counters problems of writing style.
+Writing note body is low friction.
 But writing meta boilerplate is high friction.
 Yet no mobility in a Zettelkasten without an index.
-Stamp datetimes, don't write them.
 Indexing is tough.
 Previous values can't be overwritten.
 Indexing is very instructive and a good practice because of this.
 Good to continue.
 
-Indexed Zettelkasten useful in a business context *iff* it's centralized.
+### Use for business
+Indexed Zettelkasten useful in a business context *if and only if* it's centralized.
 The box is useless if you're not in your office.
 You can write but not retrieve cards when away.
 Amnesic idiot-nomad.
 And a portable Zettelkasten sucks.
-Clunky, and unreliable in a business context.
 *The Zettelkasten directs the behavior in the office.*
 You need a centralized box.
 But centralized better if distributed.
 Since copying 3x5 index cards by hand is ridiculous, printing `git` revisions of Zettelkasten onto physical cards is superior.
-These can be stylized.
-Digital Zettelkasten more applicable to business.
+These cards can be stylized.
 Solve printing et voilà.
+
+Digital Zettelkasten is a better permanent format.
+Revisions, cloud, centralized, easily distributed, and VCS.
+Yet it is less visible. 
+This is a problem in a business context.
+Therefore the perfection of the digital ZK by printing on to portable cards above.
+Metadata would be handled automatically and according to a regular schema.
+Interior mobility of the cards is not a problem, as the index can be "nullified" or "softened" prior to printing.
+The tree is refined from the leaves first, much like evolution naturally selects *in a habitat*.
+Enclaves are first populated, and then *defined*.
+Zettelkasten can't be on a desk but on a computer with a battery.
+Resists time, unlike the physical Zettelkasten.
 Now to define a digital Zettelkasten.
+But first, the essence of *any* Zettelkasten.
 
 ## Essence of Zettelkasten
-But first, the essence of any Zettelkasten.
 *Zettel* -- note,
 *Kasten* -- crate/box.
 Note-box.
@@ -91,3 +101,6 @@ The goal is automated paper hypertext.
 Remove cognitive effort of indexing.
 Reduce penstrokes to keypresses.
 Use neovim to organize and index.
+
+# Key concepts
+1. Zettelkasten as a naturally selected knowledge tree; redefinition of the information habitat -- neighbors of the information, neighbors of the notes. Symbiosis of certain species the only means of survival.
